@@ -5,4 +5,4 @@
 
 📈 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Conducted a comprehensive analysis on the cleaned dataset, turning raw data into actionable insights using Power BI that help understand trends and patterns within Netflix content.
 
-![ADIDAS](https://github.com/AyeshaMalikAyesha/Adidas-Data-Analysis/blob/main/Adidas Sales Analysis.png?raw=true)
+![ADIDAS](https://github.com/AyeshaMalikAyesha/Adidas-Data-Analysis/blob/main/AdidasSalesAnalysis.png?raw=true)
